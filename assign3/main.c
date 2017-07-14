@@ -1,5 +1,5 @@
 /*
- * Main function for CS4823 Introduction of Parallel Programming, Assignment 2:
+ * Main function for Introduction of Parallel Programming, Assignment 2:
  * K-Means Algorithm (Sequential)
  *
  */
