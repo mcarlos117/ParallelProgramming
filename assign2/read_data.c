@@ -2,7 +2,6 @@
  * Data reading function for Introduction of Parallel Programming,
  * Assignment 2: K-Means Algorithm (Sequential)
  *
- * To students: You should not modify this file
  *
  */
 #define _GNU_SOURCE
