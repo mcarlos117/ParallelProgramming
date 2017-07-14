@@ -1,5 +1,5 @@
 /*
- * Common definitions for CS4823 Introduction of Parallel Programming,
+ * Common definitions for Introduction of Parallel Programming,
  * Assignment 4: K-Means Algorithm (Pthreads)
  *
  */
